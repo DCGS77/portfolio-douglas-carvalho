@@ -24,3 +24,22 @@ Portfólio pessoal desenvolvido para o Challenge 3 (Presença Digital) da Resid�
 - **Contato:** e-mail, LinkedIn e GitHub
 
 ## Estrutura
+```
+portfolio-douglas-carvalho
+├── assets/ imagens
+├── css/ estilos
+├── js/ scripts
+└── index.html
+```
+
+## Como rodar localmente
+
+1. Clone o repositório:
+   `git clone https://github.com/DCGS77/portfolio-douglas-carvalho.git`
+2. Abra o `index.html` no navegador, ou use a extensão Live Server no VS Code.
+
+## Contato
+
+- E-mail: douglascarvalho.gs@gmail.com
+- LinkedIn: [linkedin.com/in/douglascarvalhogs](https://www.linkedin.com/in/douglascarvalhogs/)
+- GitHub: [DCGS77](https://github.com/DCGS77)
